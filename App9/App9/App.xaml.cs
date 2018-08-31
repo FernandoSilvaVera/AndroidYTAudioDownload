@@ -12,8 +12,7 @@ namespace App9
         public App()
         {
             InitializeComponent();
-
-			MainPage = new DownloadAudioPage();
+	    MainPage = new DownloadAudioPage();
         }
 
         protected override void OnStart()
