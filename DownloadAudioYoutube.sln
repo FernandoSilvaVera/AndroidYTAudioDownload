@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2003
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DownloadAudio.Android", "App9\App9.Android\DownloadAudio.Android.csproj", "{457B29F3-8D49-46BF-B002-930ABBCD3EEA}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DownloadAudio", "App9\App9\DownloadAudio.csproj", "{A8ABF151-AC88-4F26-B305-06B6A7FAF6C0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{457B29F3-8D49-46BF-B002-930ABBCD3EEA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{457B29F3-8D49-46BF-B002-930ABBCD3EEA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{457B29F3-8D49-46BF-B002-930ABBCD3EEA}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{457B29F3-8D49-46BF-B002-930ABBCD3EEA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{457B29F3-8D49-46BF-B002-930ABBCD3EEA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{457B29F3-8D49-46BF-B002-930ABBCD3EEA}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{A8ABF151-AC88-4F26-B305-06B6A7FAF6C0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A8ABF151-AC88-4F26-B305-06B6A7FAF6C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A8ABF151-AC88-4F26-B305-06B6A7FAF6C0}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{A8ABF151-AC88-4F26-B305-06B6A7FAF6C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A8ABF151-AC88-4F26-B305-06B6A7FAF6C0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A8ABF151-AC88-4F26-B305-06B6A7FAF6C0}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {00C1E5AF-B478-49EA-91BB-5F5C63BCDAC2}
+	EndGlobalSection
+EndGlobal
